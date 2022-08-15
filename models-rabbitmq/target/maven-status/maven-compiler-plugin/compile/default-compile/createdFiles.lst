@@ -1,0 +1,4 @@
+br/com/hudsonof/App.class
+br/com/hudsonof/dtos/FilmDTO.class
+br/com/hudsonof/dtos/FilmDTO$FilmDTOBuilder.class
+br/com/hudsonof/constants/RabbitMQConstants.class
